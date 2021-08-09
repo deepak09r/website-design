@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <h1>This is heading 1</h1> -->
+    <!-- <h2>This is heading 2</h2>
+    <h3>This is heading 3</h3>
+    <h4>This is heading 4</h4>
+    <h5>This is heading 5</h5>
+    <h6>This is heading 6</h6>   -->
+    <!-- <p>Hi This is my first class. And we are learing Html basic.
+        You are welcome here.
+    </p>
+    <p>Hi This is my first class. And we are learing Html basic.
+        You are welcome here.
+    </p> -->
+    <!-- <a href="https://www.google.com/" target="_blank">Hi There</a> -->
+<!-- <img src="bird.jpg" alt="no image"/> -->
+<!-- <ul style="list-style-type: none;">
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Gauava</li>
+</ul> -->
+<!-- <ol type="A">
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Gauava</li>
+</ol> -->
+<!-- <dl>
+    <dt>Apple</dt>
+    <dd>Apple is in Red</dd>
+    <dt>Banana</dt>
+    <dd>Banana is in yellow</dd>
+</dl> -->
+<table style="border: 2px solid black;">
+    <tr>
+        <th>Student Name</th>
+        <th>Roll No </th>
+        <th>Hindi</th>
+        <th>Eng</th>
+        <th>Math</th>
+        <th>SST</th>
+        <th>Sci</th>
+    </tr>
+    <tr>
+        <td>
+            ABC
+        </td>
+        <td>1</td>
+        <td>56</td>
+        <td>76</td>
+        <td>65</td>
+        <td>78</td>
+        <td>64</td>
+    </tr>
+    <tr>
+        <td>
+            ABC
+        </td>
+        <td>1</td>
+        <td>56</td>
+        <td>76</td>
+        <td>65</td>
+        <td>78</td>
+        <td>64</td>
+    </tr>
+    <tr>
+        <td>
+            ABC
+        </td>
+        <td>1</td>
+        <td>56</td>
+        <td>76</td>
+        <td>65</td>
+        <td>78</td>
+        <td>64</td>
+    </tr>
+    <tr>
+        <td>
+            ABC
+        </td>
+        <td>1</td>
+        <td>56</td>
+        <td>76</td>
+        <td>65</td>
+        <td>78</td>
+        <td>64</td>
+    </tr>
+    <tr>
+        <td>
+            ABC
+        </td>
+        <td>1</td>
+        <td>56</td>
+        <td>76</td>
+        <td>65</td>
+        <td>78</td>
+        <td>64</td>
+    </tr>
+    <tr>
+        <td>
+            ABC
+        </td>
+        <td>1</td>
+        <td>56</td>
+        <td>76</td>
+        <td>65</td>
+        <td>78</td>
+        <td>64</td>
+    </tr>
+    <tr>
+        <td>
+            ABC
+        </td>
+        <td>1</td>
+        <td>56</td>
+        <td>76</td>
+        <td>65</td>
+        <td>78</td>
+        <td>64</td>
+    </tr>
+    <tr>
+        <td>
+            ABC
+        </td>
+        <td>1</td>
+        <td>56</td>
+        <td>76</td>
+        <td>65</td>
+        <td>78</td>
+        <td>64</td>
+    </tr>
+</table>
+</body>
+</html>
